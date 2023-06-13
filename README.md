@@ -4,4 +4,4 @@
 
 ---
 
-**<a href="https://mehrvarshodiev.github.io/buttons-hex-color/">Click and see result</a>**
+**<a href="https://mehrvarshodiev.github.io/buttons-hex-color/" target="_blank">Click and see result</a>**
